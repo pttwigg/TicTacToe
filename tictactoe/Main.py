@@ -4,7 +4,7 @@ Peyton Twigg
 Uses pygame to create a tictactoe game that can be played between any combination of player types. The player types are
 "child", which will just choose a random space; "teenager", which will choose any space unless the opponent could win on
 the next move, in which case they will attempt to block; "adult", which uses minimax to choose the  most logical move;
-"enhanced adult", which uses minimax like the adult player, but with alpha-beta pruning; and a human player, which is
+"advanced adult", which uses minimax like the adult player, but with alpha-beta pruning; and a human player, which is
 controlled by the user. Human players make a move by choosing any available square, and computer moves are initiated by
 the user clicking anywhere on the board.
 """
