@@ -1,5 +1,5 @@
-## tictactoe
-# Tictactoe game written in python using pygame.
+# tictactoe
+## Tictactoe game written in python using pygame.
 
 The game can be played between any combination of 5 player types.
 - Child: Picks a random space
