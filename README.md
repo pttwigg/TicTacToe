@@ -1,7 +1,7 @@
 # tictactoe
 ### Tictactoe game written in python using pygame.
 
-The game can be played between any combination of 5 player types.
+The game can be played between any combination of 5 player types:
 - Child: Picks a random space
 - Teenager: Chooses a random space unless the opponent is about to win, in which case will attempt to block
 - Adult: Uses minimax algorithm in order to find the most logical next move
