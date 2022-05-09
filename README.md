@@ -1,4 +1,4 @@
-# tictactoe
+# TicTacToe
 ### Tictactoe game written in python using pygame.
 
 The game can be played between any combination of 5 player types:
